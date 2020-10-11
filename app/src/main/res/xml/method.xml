@@ -431,11 +431,10 @@
             android:imeSubtypeExtraValue="KeyboardLayoutSet=armenian_phonetic,EmojiCapable"
             android:isAsciiCapable="false"
     />
-    <!-- Java uses the deprecated "in" code instead of the standard "id" code for Indonesian. -->
     <subtype android:icon="@drawable/ic_ime_switcher_dark"
             android:label="@string/subtype_generic"
             android:subtypeId="0x7daea460"
-            android:imeSubtypeLocale="in"
+            android:imeSubtypeLocale="id"
             android:imeSubtypeMode="keyboard"
             android:imeSubtypeExtraValue="KeyboardLayoutSet=qwerty,AsciiCapable,EmojiCapable"
             android:isAsciiCapable="true"
