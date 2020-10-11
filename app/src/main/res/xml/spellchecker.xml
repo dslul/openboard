@@ -102,6 +102,10 @@
     />
     <subtype
             android:label="@string/subtype_generic"
+            android:subtypeLocale="id"
+    />
+    <subtype
+            android:label="@string/subtype_generic"
             android:subtypeLocale="ka"
     />
     <subtype
